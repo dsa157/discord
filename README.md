@@ -1,2 +1,2 @@
 # discord
-discord bot development
+discord bot development sandbox
